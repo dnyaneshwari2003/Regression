@@ -1,10 +1,9 @@
 # Regression
----
 
 ## Overview  
 This project demonstrates the implementation of **Simple, Multiple, and Polynomial Linear Regression**, along with **Logistic Regression**, to solve real-world problems using datasets such as `50_Startups.csv`, `Position_Salaries.csv`, and a university admissions dataset.  
 
----
+
 
 ## Objectives  
 ### Part A: Linear Regression  
@@ -21,7 +20,7 @@ This project demonstrates the implementation of **Simple, Multiple, and Polynomi
   - Evaluation  
   - Interpretation  
 
----
+
 
 ## Part A: Linear Regression  
 
@@ -45,7 +44,7 @@ This project demonstrates the implementation of **Simple, Multiple, and Polynomi
 4. **Visualization**:  
    - Plotted regression lines and data points for both training and testing sets to compare model performance.  
 
----
+
 
 ## Part B: Logistic Regression  
 
