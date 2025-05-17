@@ -72,7 +72,6 @@ A dataset containing the following features:
 5. **Interpretation**:  
    - Analyzed the impact of GRE scores, GPA, and Prestige on admission likelihood.  
 
----
 
 ## Files Included  
 
